@@ -23,7 +23,7 @@ Please use the following entry to cite this code:
  month        = {September},
  url          = {https://github.com/simoneparisotto/Anisotropic-osmosis-filter/},
  year         = {2018}
-  }
+}
 ```
 
 #### Example
