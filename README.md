@@ -7,7 +7,7 @@
 
 **Authors**: Simone Parisotto, Luca Calatroni
 
-This is a companion software for the [submission](https://arxiv.org/pdf/1809.06298.pdf)
+This is a companion software for the [submission](https://arxiv.org/pdf/1809.06298.pdf):
 
 ```
 @article{ParCalCalSchWei18,
