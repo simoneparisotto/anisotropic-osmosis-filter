@@ -1,5 +1,13 @@
 # Anisotropic osmosis filter for shadow removal in images
-This is a MATLAB suite package for the following work:
+
+
+**Version 1.0**
+
+**Date: 19/09/2018**
+
+**Authors**: Simone Parisotto, Luca Calatroni
+
+This is a companion software for the [submission](https://arxiv.org/pdf/1809.06298.pdf)
 
 ```
 @article{ParCalCalSchWei18,
