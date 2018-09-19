@@ -25,10 +25,10 @@ Please use the following entry to cite this code:
   }
 ```
 
-![Shadowed](simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/u_start_65.jpg=201px)
-![Shadowed](simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/theta65.jpg=201px)
-![Shadowed](simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/u_CLA_65.jpg=201px)
-![Shadowed](simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/u_MIR_65.jpg=201px)
+![Shadowed](https://simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/u_start_65.jpg=201px)
+![Shadowed](https://simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/theta65.jpg=201px)
+![Shadowed](https://simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/u_CLA_65.jpg=201px)
+![Shadowed](https://simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/u_MIR_65.jpg=201px)
 
 We acknowledge the use of the following pacakges:
 
