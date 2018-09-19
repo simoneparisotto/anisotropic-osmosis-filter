@@ -3,7 +3,7 @@ This is a MATLAB suite package for the following work:
 
 ```
 @article{ParCalCalSchWei18,
- author        = {Parisotto, S. \and Calatroni, L. \and Caliari, M. \and Sch\"{o}nlieb, C.B. \and Weickert, J.},
+ author        = {Parisotto, S. and Calatroni, L. and Caliari, M. and Sch\"{o}nlieb, C.B. and Weickert, J.},
  title         = {{Anisotropic osmosis filtering for shadow removal in images}},
  year          = {2018},
  month         = {sep}, 
@@ -17,7 +17,7 @@ Please use the following entry to cite this code:
 
 ```
 @Misc{ParCalCalSchWei2018code,
- author       = {Parisotto, S. \and Calatroni, L. \and Caliari, M. \and Sch\"{o}nlieb, C.B. \and Weickert, J.},
+ author       = {Parisotto, S. and Calatroni, L. and Caliari, M. and Sch\"{o}nlieb, C.B. and Weickert, J.},
  title        = {{Anisotropic osmosis filter for shadow removal in images}},
  howpublished = {GitHub repository},
  month        = {September},
