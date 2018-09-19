@@ -1,8 +1,8 @@
-# Shadow Removal via Anisotropic Osmosis filter
+# Anisotropic osmosis filter for shadow removal in images
 This is a MATLAB suite package for the following work:
 
 ```
-@article{ParCalCalSchWei2018,
+@article{ParCalCalSchWei18,
  author        = {Parisotto, S. \and Calatroni, L. \and Caliari, M. \and Sch\"{o}nlieb, C.B. \and Weickert, J.},
  title         = {{Anisotropic osmosis filtering for shadow removal in images}},
  year          = {2018},
@@ -18,20 +18,20 @@ Please use the following entry to cite this code:
 ```
 @Misc{ParCalCalSchWei2018code,
  author       = {Parisotto, S. \and Calatroni, L. \and Caliari, M. \and Sch\"{o}nlieb, C.B. \and Weickert, J.},
- title        = {{Anisotropic osmosis filter}},
+ title        = {{Anisotropic osmosis filter for shadow removal in images}},
  howpublished = {GitHub repository},
  month        = {September},
+ url          = {https://github.com/simoneparisotto/Anisotropic-osmosis-filter/},
  year         = {2018}
   }
 ```
 
-![Shadowed](https://simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/u_start_65.jpg=201px)
-![Shadowed](https://simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/theta65.jpg=201px)
-![Shadowed](https://simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/u_CLA_65.jpg=201px)
-![Shadowed](https://simoneparisotto.github.com/Anisotropic-osmosis-filter/runme_synthetic/results/case11/u_MIR_65.jpg=201px)
+#### Example
+For a shadowed image (left), identify the shadow boundary (middle-left) and compare the results between the isotropic osmosis filter in [[Vogel](https://link.springer.com/chapter/10.1007/978-3-642-38267-3_31), [Weickert](https://link.springer.com/chapter/10.1007/978-3-642-40395-8_3)] and the proposed anisotropic osmosis model [[ParCalCalSchWei18](https://arxiv.org/abs/1809.06298)].
 
-We acknowledge the use of the following pacakges:
+<img src="https://raw.githubusercontent.com/simoneparisotto/Anisotropic-osmosis-filter/master/runme_syntethic/results/case11/u_start_65.png" width="150px"> <img src="https://raw.githubusercontent.com/simoneparisotto/Anisotropic-osmosis-filter/master/runme_syntethic/results/case11/theta65.png" width="150px"> <img src="https://raw.githubusercontent.com/simoneparisotto/Anisotropic-osmosis-filter/master/runme_syntethic/results/case11/u_CLA_65.png" width="150px"> <img src="https://raw.githubusercontent.com/simoneparisotto/Anisotropic-osmosis-filter/master/runme_syntethic/results/case11/u_MIR_65.png" width="150px">
 
+######  Software acknowledgements
 * [Anisotropic Diffusion](https://uk.mathworks.com/matlabcentral/fileexchange/47244-anisotropic-diffusion-stable-scheme)
 * The action of the matrix exponential function: [expleja](https://bitbucket.org/expleja/expleja)
 * [Tensor Voting with steerable filters](https://uk.mathworks.com/matlabcentral/fileexchange/47398-tensor-voting-with-steerable-filters)
