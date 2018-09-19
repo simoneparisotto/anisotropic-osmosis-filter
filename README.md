@@ -6,6 +6,7 @@
 **Date: 19/09/2018**
 
 **Author**: Simone Parisotto
+
 **Other authors**: L. Calatroni, M. Caliari, C.B. Schönlieb, J. Weickert
 
 This is a companion software for the [submission](https://arxiv.org/pdf/1809.06298.pdf):
