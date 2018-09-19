@@ -24,7 +24,7 @@ This is a companion software for the [submission](https://arxiv.org/pdf/1809.062
 Please use the following entry to cite this code:
 
 ```
-@Misc{ParCalCalSchWei2018code,
+@Misc{ParCalCalSchWei18code,
  author       = {Parisotto, S. and Calatroni, L. and Caliari, M. and Sch\"{o}nlieb, C.B. and Weickert, J.},
  title        = {{Anisotropic osmosis filter for shadow removal in images}},
  howpublished = {GitHub repository},
