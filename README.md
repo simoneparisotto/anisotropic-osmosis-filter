@@ -1,13 +1,12 @@
 # Anisotropic osmosis filter for shadow removal in images
 
+**Author**: Simone Parisotto
+
+**Other authors**: L. Calatroni, M. Caliari, C.B. Schönlieb, J. Weickert
 
 **Version 1.0**
 
 **Date: 19/09/2018**
-
-**Author**: Simone Parisotto
-
-**Other authors**: L. Calatroni, M. Caliari, C.B. Schönlieb, J. Weickert
 
 This is a companion software for the [submission](https://arxiv.org/pdf/1809.06298.pdf):
 
@@ -34,3 +33,6 @@ For a shadowed image (left), identify the shadow boundary (middle-left) and comp
 * [Tensor Voting with steerable filters](https://uk.mathworks.com/matlabcentral/fileexchange/47398-tensor-voting-with-steerable-filters)
 * Export figures: [export_fig](https://github.com/altmany/export\_fig)
 * Cyclic color map: [phasemap](https://uk.mathworks.com/matlabcentral/fileexchange/57020-cyclic-color-map)
+
+### License
+[BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
