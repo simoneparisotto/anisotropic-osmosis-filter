@@ -23,7 +23,7 @@ This is a companion software for the [submission](https://arxiv.org/pdf/1809.062
 ```
 
 #### Example
-For a shadowed image (left), identify the shadow boundary (middle-left) and compare the results between the isotropic osmosis filter (middle-right) in [Vogel](https://link.springer.com/chapter/10.1007/978-3-642-38267-3_31), [Weickert](https://link.springer.com/chapter/10.1007/978-3-642-40395-8_3) and the proposed anisotropic osmosis model (right) in [ParCalCalSchWei18](https://arxiv.org/abs/1809.06298).
+For a shadowed image (left), identify the shadow boundary (middle-left) and compare the results between the isotropic osmosis filter (middle-right) in [[Vogel](https://link.springer.com/chapter/10.1007/978-3-642-38267-3_31), [Weickert](https://link.springer.com/chapter/10.1007/978-3-642-40395-8_3)] and the proposed anisotropic osmosis model (right) in [[ParCalCalSchWei18](https://arxiv.org/abs/1809.06298)].
 
 <img src="https://raw.githubusercontent.com/simoneparisotto/Anisotropic-osmosis-filter/master/runme_syntethic/results/case11/u_start_65.png" width="150px"> <img src="https://raw.githubusercontent.com/simoneparisotto/Anisotropic-osmosis-filter/master/runme_syntethic/results/case11/theta65.png" width="150px"> <img src="https://raw.githubusercontent.com/simoneparisotto/Anisotropic-osmosis-filter/master/runme_syntethic/results/case11/u_CLA_65.png" width="150px"> <img src="https://raw.githubusercontent.com/simoneparisotto/Anisotropic-osmosis-filter/master/runme_syntethic/results/case11/u_MIR_65.png" width="150px">
 
