@@ -2,7 +2,7 @@
 
 **Author**: Simone Parisotto
 
-**Other authors**: L. Calatroni, M. Caliari, C.B. Schönlieb, J. Weickert
+**Other authors**: L. Calatroni, M. Caliari, C.B. Schoenlieb, J. Weickert
 
 **Version 1.0**
 
