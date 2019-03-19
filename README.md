@@ -14,13 +14,11 @@ This is a companion software for the [submission](https://arxiv.org/pdf/1809.062
 @article{ParCalCalSchWei18,
  author        = {Parisotto, S. and Calatroni, L. and Caliari, M. and Sch\"{o}nlieb, C.B. and Weickert, J.},
  title         = {{Anisotropic osmosis filtering for shadow removal in images}},
- year          = {2018},
- month         = {sep}, 
- journal       = {ArXiv e-prints},
- archivePrefix = {arXiv},
- eprint        = {1809.06298},
+ journal       = {Inverse Problems},
+ year          = {2019},
+ doi           = {10.1088/1361-6420/ab08d2}
 }
-```
+``` 
 
 #### Example
 For a shadowed image (left), identify the shadow boundary (middle-left) and compare the results between the isotropic osmosis filter (middle-right) in [[Vogel](https://link.springer.com/chapter/10.1007/978-3-642-38267-3_31), [Weickert](https://link.springer.com/chapter/10.1007/978-3-642-40395-8_3)] and the proposed anisotropic osmosis model (right) in [[ParCalCalSchWei18](https://arxiv.org/abs/1809.06298)].
